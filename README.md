@@ -294,9 +294,8 @@ if __name__ == "__main__":
 
 ## Output:
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-7-AAI-EMAlgorithmforcoinflip/blob/main/Screenshot%202026-11-21%20084339.png)
 
 ## Result:
 
 Maximization for the Two-Coin Flipping Experiment is executed successfully .
-
